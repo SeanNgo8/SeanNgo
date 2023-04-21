@@ -8924,11 +8924,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\quins\\Documents\\MIS 3033 p2\\Homework\\Homework9\\Personal Website\\Personal Website\\Personal Website.csproj",
+      "projectUniqueName": "C:\\Users\\quins\\Documents\\MIS 3033 p2\\Homework\\Homework9\\SeanNgo\\Personal Website\\Personal Website\\Personal Website.csproj",
       "projectName": "Personal Website",
-      "projectPath": "C:\\Users\\quins\\Documents\\MIS 3033 p2\\Homework\\Homework9\\Personal Website\\Personal Website\\Personal Website.csproj",
+      "projectPath": "C:\\Users\\quins\\Documents\\MIS 3033 p2\\Homework\\Homework9\\SeanNgo\\Personal Website\\Personal Website\\Personal Website.csproj",
       "packagesPath": "C:\\Users\\quins\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\quins\\Documents\\MIS 3033 p2\\Homework\\Homework9\\Personal Website\\Personal Website\\obj\\",
+      "outputPath": "C:\\Users\\quins\\Documents\\MIS 3033 p2\\Homework\\Homework9\\SeanNgo\\Personal Website\\Personal Website\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\quins\\AppData\\Roaming\\NuGet\\NuGet.Config",
