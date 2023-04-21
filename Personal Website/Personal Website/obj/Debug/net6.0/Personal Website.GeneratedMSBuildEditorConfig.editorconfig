@@ -15,12 +15,28 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\quins\Documents\MIS 3033 p2\Homework\Homework9\Personal Website\Personal Website
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/quins/Documents/MIS 3033 p2/Homework/Homework9/Personal Website/Personal Website/Views/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/quins/Documents/MIS 3033 p2/Homework/Homework9/Personal Website/Personal Website/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/quins/Documents/MIS 3033 p2/Homework/Homework9/Personal Website/Personal Website/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/quins/Documents/MIS 3033 p2/Homework/Homework9/Personal Website/Personal Website/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[C:/Users/quins/Documents/MIS 3033 p2/Homework/Homework9/Personal Website/Personal Website/Views/Home/Projects.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9qZWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/quins/Documents/MIS 3033 p2/Homework/Homework9/Personal Website/Personal Website/Views/Home/SkillSets.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTa2lsbFNldHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/quins/Documents/MIS 3033 p2/Homework/Homework9/Personal Website/Personal Website/Views/Projects.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/quins/Documents/MIS 3033 p2/Homework/Homework9/Personal Website/Personal Website/Views/Shared/Error.cshtml]
